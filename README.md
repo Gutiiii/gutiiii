@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guti</h1>
 <h3 align="center">A passionate Fullstack developer from Switzerlad</h3>
 
-- 🔭 I’m currently working on [ProjSync](https://github.com/gutiiii/ProjSync)
+- 🔭 I’m currently working on [TrustFlare](https://github.com/gutiiii/TrustFlare)
 
 - 👨‍💻 All of my projects are available at [https://samuel-gutmans.ch](https://samuel-gutmans.ch)
 
